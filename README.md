@@ -33,7 +33,7 @@
 # Technologies Used
     Backend: Java, JSP, and Servlets.
     Frontend: HTML, CSS, JSP.
-    Database: Any supported RDBMS.
+    Database: MySQL
 
 # Installation and Setup
   Clone the Repository:
